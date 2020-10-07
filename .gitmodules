@@ -1,0 +1,9 @@
+[submodule "pack/mypackage/start/ale"]
+	path = pack/mypackage/start/ale
+	url = git@github.com:dense-analysis/ale.git
+[submodule "pack/myplugins/start/emmet-vim"]
+	path = pack/myplugins/start/emmet-vim
+	url = git@github.com:mattn/emmet-vim.git
+[submodule "pack/myplugins/start/taglist.vim"]
+	path = pack/myplugins/start/taglist.vim
+	url = git@github.com:vim-scripts/taglist.vim.git
